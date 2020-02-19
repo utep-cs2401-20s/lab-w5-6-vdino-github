@@ -9,8 +9,7 @@ public class SnakeGame {
 
     //Constructor 1, Default test size 1x1
 
-    //Constructor 2
-
+    //Constructor 2 hggku
     //findTailExhaustive Method
     /*
     Return an array of 3 integers (tail at x, tail at y, length)
